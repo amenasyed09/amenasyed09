@@ -1,6 +1,6 @@
 
 ![Header](./header.png)
-
+![Postman API Fundamentals](./Postman - Postman API Fundamentals Student Expert - 2024-07-27.png)
 
 <h1 align="center">Hi 👋, I'm Amena Saiyed</h1>
 <h3 align="center">Full-Stack Solutions: From Frontend Design to Backend Integration</h3>
