@@ -1,5 +1,5 @@
-## Hi there 👋
-![Header](./headerGithub.png)
+
+![Header](./header.png)
 
 
 <h1 align="center">Hi 👋, I'm Amena Saiyed</h1>
