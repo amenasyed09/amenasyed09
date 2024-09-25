@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Amena Saiyed</h1>
 <h3 align="center">Full-Stack Solutions: From Frontend Design to Backend Integration</h3>
-## Badges
-![Postman Badge](./PostmanBadge.png)
+<h2>Badges</h2>
+<img src="./PostmanBadge.png" alt="Postman Badge">
 <img align="right" alt="Coding" width="400" src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=1600&name=dribbble-shot_6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenasyed09&label=Profile%20views&color=0e75b6&style=flat" alt="amenasyed09" /> </p>
 
