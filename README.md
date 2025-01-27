@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [WealthWise](https://github.com/amenasyed09/WealthWise)
 
-- 🌱 I’m currently learning **Flutter , React Native , Machine learning**
+- 🌱 I’m currently learning **Flutter**
 
 
 <h3 align="left">Connect with me:</h3>
