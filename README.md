@@ -7,7 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=1600&name=dribbble-shot_6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenasyed09&label=Profile%20views&color=0e75b6&style=flat" alt="amenasyed09" /> </p>
 
-- 🔭 I’m currently working on [WealthWise](https://github.com/amenasyed09/WealthWise)
 
 - 🌱 I’m currently learning **Flutter**
 
